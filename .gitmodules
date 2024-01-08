@@ -1,0 +1,3 @@
+[submodule "map_pkg/include/geometry"]
+	path = map_pkg/include/geometry
+	url = https://www.github.com/skramm/homog2d.git
