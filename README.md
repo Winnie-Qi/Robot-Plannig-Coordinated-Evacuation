@@ -3,12 +3,10 @@
 
 
 <center>	
-   <img src="https://github.com/Robot-Plannig-Coordinated-Evacuation/blob/main/03.gif"
+   <img src="https://github.com/Winnie-Qi/Robot-Plannig-Coordinated-Evacuation/blob/main/03.gif"
          alt="gif1.gif"
          width="60%"/>
 </center>
-
-
 
 
 
